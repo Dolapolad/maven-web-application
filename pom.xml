@@ -92,9 +92,9 @@
 		</dependency>
 		
 	</dependencies>
-	<distributionManagement>
- http://34.221.75.145:8081/landmark/repository/tesla-fe-snapshots/	
-		
+	
+	<distributionManagement>	
+	
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
